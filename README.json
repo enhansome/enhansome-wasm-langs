@@ -12,10 +12,10 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-19T12:47:08Z",
+            "last_commit": "2026-08-20T06:55:08Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38376
+            "stars": 38383
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-08-27T16:49:28Z",
             "owner": "mono",
             "repo": "mono",
-            "stars": 11462
+            "stars": 11464
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-07-04T14:55:40Z",
             "owner": "endbasic",
             "repo": "endbasic",
-            "stars": 384
+            "stars": 383
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2024-02-20T16:16:40Z",
             "owner": "skx",
             "repo": "gobasic",
-            "stars": 338
+            "stars": 339
           }
         },
         {
@@ -297,10 +297,10 @@
             "archived": false,
             "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-19T11:01:55Z",
+            "last_commit": "2026-08-20T00:23:30Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27571
+            "stars": 27574
           }
         },
         {
@@ -333,7 +333,7 @@
             "archived": false,
             "id": 6887813,
             "language": "Crystal",
-            "last_commit": "2026-08-19T09:15:58Z",
+            "last_commit": "2026-08-19T20:11:06Z",
             "owner": "crystal-lang",
             "repo": "crystal",
             "stars": 20378
@@ -348,7 +348,7 @@
             "archived": false,
             "id": 6887813,
             "language": "Crystal",
-            "last_commit": "2026-08-19T09:15:58Z",
+            "last_commit": "2026-08-19T20:11:06Z",
             "owner": "crystal-lang",
             "repo": "crystal",
             "stars": 20378
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 35726310,
             "language": "Dart",
-            "last_commit": "2026-08-19T12:55:17Z",
+            "last_commit": "2026-08-20T04:44:02Z",
             "owner": "dart-lang",
             "repo": "sdk",
-            "stars": 11254
+            "stars": 11255
           }
         },
         {
@@ -477,10 +477,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-19T00:24:25Z",
+            "last_commit": "2026-08-20T02:32:22Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135903
+            "stars": 135916
           }
         },
         {
@@ -492,10 +492,10 @@
             "archived": false,
             "id": 136505169,
             "language": "Go",
-            "last_commit": "2026-08-19T12:27:31Z",
+            "last_commit": "2026-08-20T07:03:04Z",
             "owner": "tinygo-org",
             "repo": "tinygo",
-            "stars": 17655
+            "stars": 17657
           }
         }
       ],
@@ -597,7 +597,7 @@
             "last_commit": "2026-07-28T16:27:02Z",
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3090
+            "stars": 3091
           }
         },
         {
@@ -675,10 +675,10 @@
             "archived": false,
             "id": 154201259,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T02:19:41Z",
+            "last_commit": "2026-08-19T18:31:23Z",
             "owner": "facebook",
             "repo": "hermes",
-            "stars": 11263
+            "stars": 11265
           }
         },
         {
@@ -753,7 +753,7 @@
             "last_commit": "2026-08-12T02:51:03Z",
             "owner": "CanadaHonk",
             "repo": "porffor",
-            "stars": 4986
+            "stars": 4987
           }
         },
         {
@@ -765,7 +765,7 @@
             "archived": false,
             "id": 15785507,
             "language": "C#",
-            "last_commit": "2026-08-19T11:15:04Z",
+            "last_commit": "2026-08-19T16:06:05Z",
             "owner": "sebastienros",
             "repo": "jint",
             "stars": 4703
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 887923487,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T15:21:45Z",
+            "last_commit": "2026-08-19T15:19:15Z",
             "owner": "dy",
             "repo": "jz",
             "stars": 159
@@ -951,7 +951,7 @@
             "last_commit": "2026-04-01T00:54:16Z",
             "owner": "yuin",
             "repo": "gopher-lua",
-            "stars": 6964
+            "stars": 6965
           }
         },
         {
@@ -1128,7 +1128,7 @@
             "last_commit": "2026-08-18T06:47:51Z",
             "owner": "arnetheduck",
             "repo": "nlvm",
-            "stars": 775
+            "stars": 774
           }
         },
         {
@@ -1263,10 +1263,10 @@
             "archived": false,
             "id": 135201145,
             "language": "Rust",
-            "last_commit": "2026-08-19T11:07:39Z",
+            "last_commit": "2026-08-20T03:47:36Z",
             "owner": "RustPython",
             "repo": "RustPython",
-            "stars": 22290
+            "stars": 22291
           }
         },
         {
@@ -1281,7 +1281,7 @@
             "last_commit": "2026-08-18T14:36:09Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21994
+            "stars": 21996
           }
         },
         {
@@ -1410,7 +1410,7 @@
             "archived": false,
             "id": 285247837,
             "language": "Go",
-            "last_commit": "2026-08-19T12:45:36Z",
+            "last_commit": "2026-08-19T15:34:40Z",
             "owner": "refaktor",
             "repo": "rye",
             "stars": 701
@@ -1446,10 +1446,10 @@
             "archived": false,
             "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-19T11:23:45Z",
+            "last_commit": "2026-08-19T22:07:53Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12118
+            "stars": 12122
           }
         },
         {
@@ -1542,10 +1542,10 @@
             "archived": false,
             "id": 166616185,
             "language": "Zig",
-            "last_commit": "2026-08-19T08:28:51Z",
+            "last_commit": "2026-08-20T03:38:55Z",
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 5984
+            "stars": 5987
           }
         },
         {
@@ -1572,7 +1572,7 @@
             "archived": false,
             "id": 693746726,
             "language": "HTML",
-            "last_commit": "2026-08-19T11:28:01Z",
+            "last_commit": "2026-08-19T17:41:00Z",
             "owner": "roc-lang",
             "repo": "basic-webserver",
             "stars": 106
@@ -1608,10 +1608,10 @@
             "archived": false,
             "id": 442624615,
             "language": "Ruby",
-            "last_commit": "2026-08-19T01:33:13Z",
+            "last_commit": "2026-08-20T01:30:13Z",
             "owner": "ruby",
             "repo": "ruby.wasm",
-            "stars": 867
+            "stars": 869
           }
         },
         {
@@ -1719,10 +1719,10 @@
             "archived": false,
             "id": 114685405,
             "language": "Rust",
-            "last_commit": "2026-08-18T20:20:04Z",
+            "last_commit": "2026-08-19T16:11:42Z",
             "owner": "wasm-bindgen",
             "repo": "wasm-bindgen",
-            "stars": 9119
+            "stars": 9121
           }
         },
         {
@@ -1826,7 +1826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:58:45.066Z",
+    "last_updated": "2026-08-20T07:06:38.388Z",
     "original_repository": "appcypher/awesome-wasm-langs",
     "original_repository_id": 114363116,
     "original_repository_sha": "98da48676fc8de184f42cf71911e466e89731d92",
