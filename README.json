@@ -12,10 +12,10 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-24T07:27:08Z",
+            "last_commit": "2026-08-24T13:28:15Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38390
+            "stars": 38392
           }
         },
         {
@@ -101,6 +101,69 @@
         }
       ],
       "title": "Ada top⇈"
+    },
+    {
+      "description": "AssemblyScript is a new compiler targeting WebAssembly while utilizing TypeScript's syntax and node's vibrant ecosystem. Instead of requiring complex toolchains to set up, you can simply npm install it - or run it in a browser.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AssemblyScript",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105138356,
+            "language": "WebAssembly",
+            "last_commit": "2026-07-22T02:56:30Z",
+            "owner": "AssemblyScript",
+            "repo": "assemblyscript",
+            "stars": 17993
+          }
+        }
+      ],
+      "title": "AssemblyScript top⇈"
+    },
+    {
+      "description": "Astro is a fun safe language for rapid prototyping and high performance applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Astro - main repository.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91507069,
+            "language": "Rust",
+            "last_commit": "2023-08-10T16:58:46Z",
+            "owner": "astrolang",
+            "repo": "astro",
+            "stars": 804
+          }
+        }
+      ],
+      "title": "Astro top⇈"
+    },
+    {
+      "description": "Ballerina is an open-source programming language for the cloud that makes it easier to use, combine, and create network services. The WebAssembly compiler is implemented for the native Ballerina compiler nBallerina.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Main repository",
+          "description": "Ballerina-to-wasm compiler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 370274604,
+            "language": "Ballerina",
+            "last_commit": "2024-10-23T02:21:08Z",
+            "owner": "ballerina-platform",
+            "repo": "nballerina",
+            "stars": 144
+          }
+        }
+      ],
+      "title": "Ballerina top⇈"
     },
     {
       "description": "BASIC (acronym for \"Beginners' All-purpose Symbolic Instruction Code\") is an early general-purpose and high-level programming language. It's still one of the simplest and easy to learn languages.",
@@ -297,7 +360,7 @@
             "archived": false,
             "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-23T16:42:21Z",
+            "last_commit": "2026-08-24T10:51:47Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
             "stars": 27575
@@ -320,6 +383,90 @@
         }
       ],
       "title": "C top⇈"
+    },
+    {
+      "description": "C4wa (\"C for Web Assembly\") is a subset of Standard C specifically targeted for simple and efficient Web Assembly compilation. Generated WASM files include no overhead, out of the box compatible with any Web Assembly runtime, support import of variable-argument functions (such as ). There is also an option to create well-formatted and readable WAT files.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "c4wa",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 422768782,
+            "language": "WebAssembly",
+            "last_commit": "2022-01-29T06:17:26Z",
+            "owner": "kign",
+            "repo": "c4wa",
+            "stars": 110
+          }
+        }
+      ],
+      "title": "c4wa top⇈"
+    },
+    {
+      "description": "A programming language similar to Go and TypeScript.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Co",
+          "description": "main repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99549724,
+            "language": "TypeScript",
+            "last_commit": "2020-03-13T23:59:16Z",
+            "owner": "rsms",
+            "repo": "co",
+            "stars": 151
+          }
+        }
+      ],
+      "title": "Co top⇈"
+    },
+    {
+      "description": "COBOL is a compiled English-like programming language designed for business use. It is imperative, procedural, and object-oriented. COBOL is primarily used in business, finance, and administrative systems.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cobaul",
+          "description": "toolchain used to support COBOL in CloudFlare workers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255055715,
+            "language": "COBOL",
+            "last_commit": "2026-04-23T22:39:45Z",
+            "owner": "cloudflare",
+            "repo": "cobweb",
+            "stars": 399
+          }
+        }
+      ],
+      "title": "COBOL top⇈"
+    },
+    {
+      "description": "Coi is a component-based language for high-performance web apps (Fast, Minimal, Type-safe) with the following features:Fine-Grained Reactivity: State changes map directly to DOM elements at compile-time. No Virtual DOM overhead.Type-Safe Components: Compile-time error checking with strictly typed parameters and state.Minimal Runtime: Tiny WASM binaries with high-performance updates for DOM, Canvas, and more.Integrated DOM & Styling: Write HTML elements and scoped CSS directly in components.View Control Flow: Declarative , , and tags for conditional rendering and iteration.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coi",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1127443998,
+            "language": "C++",
+            "last_commit": "2026-08-17T16:15:34Z",
+            "owner": "coi",
+            "repo": "coi",
+            "stars": 567
+          }
+        }
+      ],
+      "title": "Coi top⇈"
     },
     {
       "description": "Crystal is a programming language with the following goals:Have a syntax similar to Ruby (but compatibility with it is not a goal)Statically type-checked but without having to specify the type of variables or method arguments.Be able to call C code by writing bindings to it in Crystal.Have compile-time evaluation and generation of code, to avoid boilerplate code.Compile to efficient native code.",
@@ -358,6 +505,48 @@
       "title": "Crystal top⇈"
     },
     {
+      "description": "Fast, efficient, and concurrent scripting. Dynamic and gradual types; Concurrency with fibers; Multithreaded; Memory safe; FFI and Embeddable.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cyber",
+          "description": "project repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 560137000,
+            "language": "Zig",
+            "last_commit": "2025-12-21T12:52:19Z",
+            "owner": "fubark",
+            "repo": "cyber",
+            "stars": 1517
+          }
+        }
+      ],
+      "title": "Cyber top⇈"
+    },
+    {
+      "description": "D is a general-purpose programming language with static typing, systems-level access, and C-like syntax.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LDC",
+          "description": "LLVM-based D compiler, which can generate WASM since version 1.11.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2174666,
+            "language": "D",
+            "last_commit": "2026-08-24T01:38:08Z",
+            "owner": "ldc-developers",
+            "repo": "ldc",
+            "stars": 1366
+          }
+        }
+      ],
+      "title": "D top⇈"
+    },
+    {
       "description": "An approachable, portable, and productive language for high-quality apps on any platform",
       "items": [
         {
@@ -369,10 +558,10 @@
             "archived": false,
             "id": 35726310,
             "language": "Dart",
-            "last_commit": "2026-08-24T05:18:47Z",
+            "last_commit": "2026-08-24T13:50:04Z",
             "owner": "dart-lang",
             "repo": "sdk",
-            "stars": 11264
+            "stars": 11262
           }
         },
         {
@@ -384,7 +573,7 @@
             "archived": false,
             "id": 137279731,
             "language": "TeX",
-            "last_commit": "2026-08-21T08:09:01Z",
+            "last_commit": "2026-08-24T12:16:31Z",
             "owner": "dart-lang",
             "repo": "language",
             "stars": 2932
@@ -392,6 +581,48 @@
         }
       ],
       "title": "Dart top⇈"
+    },
+    {
+      "description": "Eclair is a minimal, fast Datalog implementation that compiles to LLVM IR and WASM.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eclair-lang",
+          "description": "The Eclair compiler, which can compile Eclair code to LLVM IR and WASM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378435456,
+            "language": "Haskell",
+            "last_commit": "2024-01-22T09:15:36Z",
+            "owner": "luc-tielen",
+            "repo": "eclair-lang",
+            "stars": 232
+          }
+        }
+      ],
+      "title": "Eclair top⇈"
+    },
+    {
+      "description": "Eel is a small language used for, among other things, writing visualizer \"presets\" for Milkdrop, the music visualization program which came with Winamp.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eel-wasm",
+          "description": "Compiles Milkdrop flavored Eel to Wasm in the browser. Intended to become a component of Butterchurn, a WebGL implementation of the Milkdrop Visualizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 234243839,
+            "language": "TypeScript",
+            "last_commit": "2025-12-16T00:01:35Z",
+            "owner": "captbaritone",
+            "repo": "eel-wasm",
+            "stars": 60
+          }
+        }
+      ],
+      "title": "Eel top⇈"
     },
     {
       "description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications. Elixir builds on top of Erlang and shares the same abstractions for building distributed, fault-tolerant applications.",
@@ -428,6 +659,48 @@
         }
       ],
       "title": "Elixir top⇈"
+    },
+    {
+      "description": "Faust (Functional Audio Stream) is a functional programming language specifically designed for real-time signal processing and synthesis. A distinctive characteristic of Faust is to be fully compiled.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Faust",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72926839,
+            "language": "C++",
+            "last_commit": "2026-08-24T08:48:23Z",
+            "owner": "grame-cncm",
+            "repo": "faust",
+            "stars": 3133
+          }
+        }
+      ],
+      "title": "Faust top⇈"
+    },
+    {
+      "description": "Forest is a functional programming language that compiles to WebAssembly. The main repo contains the compiler and core syntaxes, currently implemented in Haskell.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ForestLang",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110298402,
+            "language": "Haskell",
+            "last_commit": "2021-08-04T11:47:12Z",
+            "owner": "forest-lang",
+            "repo": "forest-compiler",
+            "stars": 626
+          }
+        }
+      ],
+      "title": "Forest top⇈"
     },
     {
       "description": "Forth is an interactive, extensible, imperative, untyped, stack-based programming language.",
@@ -477,10 +750,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-23T02:48:50Z",
+            "last_commit": "2026-08-24T11:09:02Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136200
+            "stars": 136202
           }
         },
         {
@@ -492,7 +765,7 @@
             "archived": false,
             "id": 136505169,
             "language": "Go",
-            "last_commit": "2026-08-23T19:29:23Z",
+            "last_commit": "2026-08-24T13:39:01Z",
             "owner": "tinygo-org",
             "repo": "tinygo",
             "stars": 17667
@@ -583,6 +856,48 @@
       "title": "Haskell top⇈"
     },
     {
+      "description": "Idris is a general purpose pure functional programming language with dependent types. Dependent types allow types to be predicated on values, meaning that some aspects of a program’s behaviour can be specified precisely in the type. It is compiled, with eager evaluation. Its features are influenced by Haskell and ML.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Idris-codegen-WASM - WASM codegen repository.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132383124,
+            "language": "Haskell",
+            "last_commit": "2018-06-26T06:51:57Z",
+            "owner": "SPY",
+            "repo": "idris-codegen-wasm",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Idris top⇈"
+    },
+    {
+      "description": "Janet makes a good system scripting language, or a language to embed in other programs. It's like a \"modern Lisp\", featuring great and easy C interop and a variety of data types like arrays, structs, tables, etc.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Janet",
+          "description": "main repository. You can try it out here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84521458,
+            "language": "C",
+            "last_commit": "2026-08-23T18:26:31Z",
+            "owner": "janet-lang",
+            "repo": "janet",
+            "stars": 4369
+          }
+        }
+      ],
+      "title": "Janet top⇈"
+    },
+    {
       "description": "Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers \"write once, run anywhere\" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java was originally developed by James Gosling at Sun Microsystems and released in 1995 as a core component of Sun Microsystems' Java platform. The language derives much of its syntax from C and C++, but it has fewer low-level facilities than either of them.",
       "items": [
         {
@@ -597,7 +912,7 @@
             "last_commit": "2026-07-28T16:27:02Z",
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3094
+            "stars": 3095
           }
         },
         {
@@ -708,7 +1023,7 @@
             "last_commit": "2026-08-22T08:07:23Z",
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7495
+            "stars": 7496
           }
         },
         {
@@ -753,7 +1068,7 @@
             "last_commit": "2026-08-12T02:51:03Z",
             "owner": "CanadaHonk",
             "repo": "porffor",
-            "stars": 5030
+            "stars": 5032
           }
         },
         {
@@ -813,7 +1128,7 @@
             "last_commit": "2026-06-08T12:50:23Z",
             "owner": "sebastianwessel",
             "repo": "quickjs",
-            "stars": 928
+            "stars": 929
           }
         },
         {
@@ -840,7 +1155,7 @@
             "archived": false,
             "id": 887923487,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T04:03:18Z",
+            "last_commit": "2026-08-24T11:56:07Z",
             "owner": "dy",
             "repo": "jz",
             "stars": 159
@@ -901,6 +1216,90 @@
       "title": "Julia top⇈"
     },
     {
+      "description": "KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KCLVM",
+          "description": "LLVM-based KCL compiler, which can generate WASM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 488865524,
+            "language": "Rust",
+            "last_commit": "2026-08-24T10:18:01Z",
+            "owner": "kcl-lang",
+            "repo": "kcl",
+            "stars": 2401
+          }
+        }
+      ],
+      "title": "KCL top⇈"
+    },
+    {
+      "description": "Kotlin is a modern but already mature programming language aimed to make developers happier. It's concise, safe, interoperable with Java and other languages, and provides many ways to reuse code between multiple platforms for productive programming.Kotlin/Wasm is the new target and toolchain in the Kotlin family. It has a few special properties:It compiles to Wasm directly without any additional layers, to compile as fast as possible, including incrementally in the future.It uses experimental/fresh proposals like GC, Typed Function References, Exception Handling, and Stringref.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kotlin/Wasm examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 598690962,
+            "language": "HTML",
+            "last_commit": "2026-01-14T11:54:22Z",
+            "owner": "Kotlin",
+            "repo": "kotlin-wasm-examples",
+            "stars": 585
+          }
+        }
+      ],
+      "title": "Kotlin top⇈"
+    },
+    {
+      "description": "A minimal language compiled into wasm bytecode.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kou",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110226711,
+            "language": "TypeScript",
+            "last_commit": "2019-08-26T15:37:25Z",
+            "owner": "hatashiro",
+            "repo": "kou",
+            "stars": 137
+          }
+        }
+      ],
+      "title": "Kou top⇈"
+    },
+    {
+      "description": "LabVIEW is a development environment for the G dataflow graphical programming language used for data acquisition, instrument control, and industrial automation.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vireo",
+          "description": "An open-source runtime capable of running the virtual instrument assembly representation of the G dataflow graphical programming language created by G Web Development Software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18154590,
+            "language": "C++",
+            "last_commit": "2024-07-16T09:53:10Z",
+            "owner": "ni",
+            "repo": "VireoSDK",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "LabVIEW top⇈"
+    },
+    {
       "description": "Lisp (historically LISP) is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.",
       "items": [
         {
@@ -935,6 +1334,48 @@
         }
       ],
       "title": "Lisp top⇈"
+    },
+    {
+      "description": "Lobster is a statically typed language with flow-sensitive type inference and specialization, compile time reference counting (lifetime analysis) that looks a bit like Python. It was originally intended specifically for games. Lobster has its own Wasm backend that compiles directly to linkable (with LLD) .wasm files.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lobster github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10606484,
+            "language": "C++",
+            "last_commit": "2026-08-18T20:36:06Z",
+            "owner": "aardappel",
+            "repo": "lobster",
+            "stars": 2732
+          }
+        }
+      ],
+      "title": "Lobster top⇈"
+    },
+    {
+      "description": "Lox is a language created by Bob Nystrom, used to teach compilers in the book Crafting Interpreters. It is dynamically typed, and supports classes, closures, and first-class functions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "loxcraft",
+          "description": "uses WebAssembly for its online playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215614449,
+            "language": "Rust",
+            "last_commit": "2026-04-12T22:39:40Z",
+            "owner": "ajeetdsouza",
+            "repo": "loxcraft",
+            "stars": 365
+          }
+        }
+      ],
+      "title": "Lox top⇈"
     },
     {
       "description": "Lua is a lightweight, multi-paradigm programming language designed primarily for embedded systems and clients.[2] Lua is cross-platform, since the interpreter is written in ANSI C, and has a relatively simple C API. Lua was originally designed in 1993 as a language for extending software applications to meet the increasing demand for customization at the time.",
@@ -1011,7 +1452,7 @@
             "last_commit": "2026-07-29T17:07:35Z",
             "owner": "ceifa",
             "repo": "wasmoon",
-            "stars": 692
+            "stars": 693
           }
         },
         {
@@ -1078,6 +1519,48 @@
       "title": "Lua top⇈"
     },
     {
+      "description": "Lys is a typed functional language that compiles directly to WebAssembly.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lys",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130402516,
+            "language": "TypeScript",
+            "last_commit": "2025-01-24T14:47:57Z",
+            "owner": "lys-lang",
+            "repo": "lys",
+            "stars": 429
+          }
+        }
+      ],
+      "title": "Lys top⇈"
+    },
+    {
+      "description": "MoonBit is an end-to-end programming language toolchain for cloud and edge computing using WebAssembly. The language is like Rust with GC support. The fast compiler is optimized to produce very compact WASM binaries.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Core library",
+          "description": "open-sourced standard library. Compiler source code is not available yet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749681472,
+            "language": "MoonBit",
+            "last_commit": "2026-08-24T07:11:21Z",
+            "owner": "moonbitlang",
+            "repo": "core",
+            "stars": 1189
+          }
+        }
+      ],
+      "title": "MoonBit top⇈"
+    },
+    {
       "description": "Minimal, simple, efficient, statically typed, compiled, metaprogrammable, safe, and extensible systems programming language with a Lua flavor.",
       "items": [
         {
@@ -1112,6 +1595,48 @@
         }
       ],
       "title": "Nelua top⇈"
+    },
+    {
+      "description": "NerdLang is a substract of JS with some additions, focus on efficiency. Nerd is a JavaScript native compiler aiming to make JavaScript universal, Nerd is able to compile native apps for Windows, Mac, Linux, iOS, Android, Raspberry, STM32, Arduino, Web (including WASM), and more.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nerd",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78945412,
+            "language": "C++",
+            "last_commit": "2023-01-25T06:57:26Z",
+            "owner": "NerdLang",
+            "repo": "nerd",
+            "stars": 3613
+          }
+        }
+      ],
+      "title": "Nerd top⇈"
+    },
+    {
+      "description": "Never is a simple functional programming language. Technically it may be classified as syntactically scoped, strongly typed, call by value, functional programming language.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Never",
+          "description": "project repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134974042,
+            "language": "C",
+            "last_commit": "2024-05-12T20:45:39Z",
+            "owner": "never-lang",
+            "repo": "never",
+            "stars": 461
+          }
+        }
+      ],
+      "title": "Never top⇈"
     },
     {
       "description": "A fringe language with some beautiful design patterns.",
@@ -1252,6 +1777,48 @@
       "title": "PHP top⇈"
     },
     {
+      "description": "Plorth is stack based, concatenative, strongly typed functional scripting language which is easy to embed to applications written in C++. It's inspired by Forth and Factor programming languages.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Plorth",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101572298,
+            "language": null,
+            "last_commit": "2017-12-20T20:05:40Z",
+            "owner": "RauliL",
+            "repo": "plorth-webassembly",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Plorth top⇈"
+    },
+    {
+      "description": "Poetry is a poetically dynamic and simple programming language that compiles to WebAssembly. It has a minimalisting syntax akin to CoffeeScript and gives you full control over wasm imports and exports.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Poetry",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129152469,
+            "language": "WebAssembly",
+            "last_commit": "2019-01-13T14:46:50Z",
+            "owner": "FantasyInternet",
+            "repo": "poetry",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "Poetry top⇈"
+    },
+    {
       "description": "Python is an open source interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales.",
       "items": [
         {
@@ -1263,7 +1830,7 @@
             "archived": false,
             "id": 135201145,
             "language": "Rust",
-            "last_commit": "2026-08-23T05:32:57Z",
+            "last_commit": "2026-08-24T13:27:05Z",
             "owner": "RustPython",
             "repo": "RustPython",
             "stars": 22301
@@ -1278,7 +1845,7 @@
             "archived": false,
             "id": 15337142,
             "language": "C",
-            "last_commit": "2026-08-18T14:36:09Z",
+            "last_commit": "2026-08-24T13:50:59Z",
             "owner": "micropython",
             "repo": "micropython",
             "stars": 22009
@@ -1296,7 +1863,7 @@
             "last_commit": "2026-08-22T17:43:58Z",
             "owner": "pyodide",
             "repo": "pyodide",
-            "stars": 14798
+            "stars": 14799
           }
         },
         {
@@ -1446,10 +2013,10 @@
             "archived": false,
             "id": 48714685,
             "language": "Go",
-            "last_commit": "2026-08-21T19:32:50Z",
+            "last_commit": "2026-08-24T12:10:30Z",
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12148
+            "stars": 12150
           }
         },
         {
@@ -1542,7 +2109,7 @@
             "archived": false,
             "id": 166616185,
             "language": "Zig",
-            "last_commit": "2026-08-24T05:35:10Z",
+            "last_commit": "2026-08-24T13:29:29Z",
             "owner": "roc-lang",
             "repo": "roc",
             "stars": 6006
@@ -1572,7 +2139,7 @@
             "archived": false,
             "id": 693746726,
             "language": "HTML",
-            "last_commit": "2026-08-23T11:23:29Z",
+            "last_commit": "2026-08-24T13:31:09Z",
             "owner": "roc-lang",
             "repo": "basic-webserver",
             "stars": 106
@@ -1823,10 +2390,346 @@
         }
       ],
       "title": "Scheme top⇈"
+    },
+    {
+      "description": "Speedy.js is a compiler for a well considered, performance pitfalls free subset of JavaScript targeting WebAssembly. Because WebAssembly is statically-typed, the project uses TypeScript as type-checker and to resolve the types of the program symbols.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Speedy.js - main repository.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 84058066,
+            "language": "TypeScript",
+            "last_commit": "2017-10-23T14:32:01Z",
+            "owner": "MichaReiser",
+            "repo": "speedy.js",
+            "stars": 342
+          }
+        }
+      ],
+      "title": "Speedy.js top⇈"
+    },
+    {
+      "description": "Tcl (Tool Command Language) is a very powerful but easy to learn dynamic programming language, mature but evolving, highly extensible and suitable for a very wide range of uses.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wacl",
+          "description": "A Tcl distibution for WebAssembly or Javascript. Features JS/DOM bindings. You can try it out here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92673610,
+            "language": "JavaScript",
+            "last_commit": "2017-05-29T07:45:51Z",
+            "owner": "ecky-l",
+            "repo": "wacl",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "Tcl top⇈"
+    },
+    {
+      "description": "Theta is a modern, general purpose, functional programming language with a strong type system and expressive syntax. It features a modular design and supports pattern matching, function overloading, and other goodies.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ThetaLang",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810638497,
+            "language": "C++",
+            "last_commit": "2024-11-03T04:15:49Z",
+            "owner": "ThetaLang",
+            "repo": "Theta",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Theta top⇈"
+    },
+    {
+      "description": "TurboScript is an experimental programming language for parallel programming for web which compiles to JavaScript (asm.js) and WebAssembly (targeting post-MVP). The syntax is similar to TypeScript and the compiler is open source and written in TypeScript. TurboScript has zero dependencies.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TurboScript",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 76457625,
+            "language": "JavaScript",
+            "last_commit": "2017-09-08T07:16:30Z",
+            "owner": "01alchemist",
+            "repo": "TurboScript",
+            "stars": 494
+          }
+        }
+      ],
+      "title": "TurboScript top⇈"
+    },
+    {
+      "description": "Uxn is a small virtual machine specfication, designed for portability and stability.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Uxn.wasm",
+          "description": "WebAssembly implementation of the Uxn virtual machine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 710493837,
+            "language": "WebAssembly",
+            "last_commit": "2024-08-15T16:02:41Z",
+            "owner": "remko",
+            "repo": "uxn.wasm",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Uxntop⇈"
+    },
+    {
+      "description": "V is a statically typed compiled programming language designed for building maintainable software.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "V",
+          "description": "main repository. You can try it out here",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169677297,
+            "language": "V",
+            "last_commit": "2026-08-24T13:27:29Z",
+            "owner": "vlang",
+            "repo": "v",
+            "stars": 37800
+          }
+        }
+      ],
+      "title": "V top⇈"
+    },
+    {
+      "description": "A fast and lightweight safe, garbage-collected systems programming language. Its compiler produces optimized, standalone native executables, WebAssembly modules, or JARs for the JVM.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Virgil",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41295289,
+            "language": "Shell",
+            "last_commit": "2026-08-22T16:43:34Z",
+            "owner": "titzer",
+            "repo": "virgil",
+            "stars": 1416
+          }
+        }
+      ],
+      "title": "Virgil top⇈"
+    },
+    {
+      "description": "Wa is a general-purpose programming language designed for developing robustness and maintainability WebAssembly software. Instead of requiring complex toolchains to set up, you can simply go install it - or run it in a browser.\n凹语言™（凹读音“Wa”）是 针对 WASM 平台设计的的通用编程语言，支持 Linux、macOS 和 Windows 等主流操作系统和 Chrome 等浏览器环境，同时也支持作为独立Shell脚本和被嵌入脚本模式执行。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wa/凹语言(仓库)",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 515818850,
+            "language": "Go",
+            "last_commit": "2026-04-30T10:43:49Z",
+            "owner": "wa-lang",
+            "repo": "wa",
+            "stars": 1767
+          }
+        }
+      ],
+      "title": "Wa top⇈"
+    },
+    {
+      "description": "Wah is a slightly higher level language that is a superset of WebAssembly. It aims to make WebAssembly's text format slightly more friendly to humans, without introducing new syntax or datatypes.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wah - main repository.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91038318,
+            "language": "Clojure",
+            "last_commit": "2019-07-28T06:34:53Z",
+            "owner": "tmcw",
+            "repo": "wah",
+            "stars": 159
+          }
+        }
+      ],
+      "title": "Wah top⇈"
+    },
+    {
+      "description": "WAlt is an alternative syntax for WebAssembly text format. It's an experiment for using JavaScript syntax to write to as 'close to the metal' as possible. It's JavaScript with rules. .walt files compile directly to WebAssembly binary format.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Walt - main repository.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91142264,
+            "language": "JavaScript",
+            "last_commit": "2023-01-02T16:57:45Z",
+            "owner": "ballercat",
+            "repo": "walt",
+            "stars": 4631
+          }
+        }
+      ],
+      "title": "WAlt top⇈"
+    },
+    {
+      "description": "WebAssembly Macro language: Wam syntax is a near superset of wast syntax that is more convenient for human developers to write directly.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wam - main repository.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156289117,
+            "language": "JavaScript",
+            "last_commit": "2019-08-07T03:10:53Z",
+            "owner": "kanaka",
+            "repo": "wam",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Wam top⇈"
+    },
+    {
+      "description": "WASE: WebAssembly made easy. Wase is a language, which tries to make WASM easy to write. The language maps closely to WebAssembly, and compiles directly to Wasm bytecode. Has strong typing with type inference.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wase",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 476663840,
+            "language": "WebAssembly",
+            "last_commit": "2023-03-08T12:05:22Z",
+            "owner": "area9innovation",
+            "repo": "wase",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Wase top⇈"
+    },
+    {
+      "description": "Yes, WebAssembly. is the fastest WebAssembly interpreter, that enables WebAssembly self-hosting.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wasm3",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 212152900,
+            "language": "C",
+            "last_commit": "2026-08-23T09:33:42Z",
+            "owner": "wasm3",
+            "repo": "wasm3",
+            "stars": 7995
+          }
+        }
+      ],
+      "title": "WebAssembly top⇈"
+    },
+    {
+      "description": "Wonkey is an easy to learn, object-oriented, modern and cross-platform programming language for creating cross-platform video games, highly inspired by the \"BlitzBasic\" range of languages.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wonkey",
+          "description": "main repository. Check the demo games here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 327374788,
+            "language": "C++",
+            "last_commit": "2026-05-31T23:54:40Z",
+            "owner": "wonkey-coders",
+            "repo": "wonkey",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Wonkey top⇈"
+    },
+    {
+      "description": "A lisp-like language that compiles to WebAssembly, written in racket",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wracket - main repository.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112106545,
+            "language": "Racket",
+            "last_commit": "2017-11-26T18:38:26Z",
+            "owner": "sschauss",
+            "repo": "wracket",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Wracket top⇈"
+    },
+    {
+      "description": "Toy C compiler for x86-64 and wasm",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xcc",
+          "description": "main repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166307267,
+            "language": "C",
+            "last_commit": "2026-08-24T00:23:44Z",
+            "owner": "tyfkda",
+            "repo": "xcc",
+            "stars": 545
+          }
+        }
+      ],
+      "title": "xcc top⇈"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:29:06.216Z",
+    "last_updated": "2026-08-24T13:54:18.553Z",
     "original_repository": "appcypher/awesome-wasm-langs",
     "original_repository_id": 114363116,
     "original_repository_sha": "98da48676fc8de184f42cf71911e466e89731d92",
