@@ -12,7 +12,7 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-25T03:58:14Z",
+            "last_commit": "2026-08-25T07:00:47Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
             "stars": 38391
@@ -30,7 +30,7 @@
             "last_commit": "2024-08-27T16:49:28Z",
             "owner": "mono",
             "repo": "mono",
-            "stars": 11465
+            "stars": 11466
           }
         },
         {
@@ -750,10 +750,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-25T00:53:42Z",
+            "last_commit": "2026-08-25T07:07:58Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136442
+            "stars": 136445
           }
         },
         {
@@ -912,7 +912,7 @@
             "last_commit": "2026-08-24T18:34:24Z",
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3095
+            "stars": 3096
           }
         },
         {
@@ -1023,7 +1023,7 @@
             "last_commit": "2026-08-22T08:07:23Z",
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7500
+            "stars": 7499
           }
         },
         {
@@ -1551,7 +1551,7 @@
             "archived": false,
             "id": 749681472,
             "language": "MoonBit",
-            "last_commit": "2026-08-25T03:08:06Z",
+            "last_commit": "2026-08-25T06:26:15Z",
             "owner": "moonbitlang",
             "repo": "core",
             "stars": 1189
@@ -1860,7 +1860,7 @@
             "archived": false,
             "id": 122663163,
             "language": "Python",
-            "last_commit": "2026-08-25T05:36:33Z",
+            "last_commit": "2026-08-25T07:00:39Z",
             "owner": "pyodide",
             "repo": "pyodide",
             "stars": 14799
@@ -2729,7 +2729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:50:39.820Z",
+    "last_updated": "2026-08-25T07:08:40.954Z",
     "original_repository": "appcypher/awesome-wasm-langs",
     "original_repository_id": 114363116,
     "original_repository_sha": "98da48676fc8de184f42cf71911e466e89731d92",
