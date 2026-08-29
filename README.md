@@ -107,7 +107,7 @@ This repo contains a list of languages that currently compile to or have their V
 
 > .NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows. It includes a large class library named Framework Class Library (FCL) and provides language interoperability (each language can use code written in other languages) across several programming languages.
 
-* [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) - a web UI framework using C#/Razor and HTML, running client-side via WebAssembly. Source is maintained on [ASP.Net Core](https://github.com/dotnet/aspnetcore) ⭐ 38,400 | 🐛 4,136 | 🌐 C# | 📅 2026-08-29 repo.
+* [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) - a web UI framework using C#/Razor and HTML, running client-side via WebAssembly. Source is maintained on [ASP.Net Core](https://github.com/dotnet/aspnetcore) ⭐ 38,400 | 🐛 4,137 | 🌐 C# | 📅 2026-08-29 repo.
 * [Mono](https://github.com/mono/mono/tree/master/sdks/wasm) ⭐ 11,467 | 🐛 2,266 | 🌐 C# | 📅 2024-08-27 - an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime. For a real-work example, see this repository which contains the [Windows 10 calculator](https://github.com/nventive/calculator) ⭐ 415 | 🐛 61 | 🌐 C# | 📅 2025-08-26. The application is built using standard C++ 11 and C++/CX, with a calculation engine that dates back from 1995. Made by possible with mono via [Uno Platform](https://platform.uno/a-piece-of-windows-10-is-now-running-on-webassembly-natively-on-ios-and-android/).
 * [NativeAOT-LLVM](https://github.com/dotnet/runtimelab/tree/feature/NativeAOT-LLVM) ⭐ 1,616 | 🐛 256 | 📅 2026-08-24 - an experimental fork of the CoreCLR .NET runtime that compiles .NET applications into single-file executables, with the primary target being WASM
 * [Bolero](https://fsbolero.io/) - Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities, and more.
@@ -187,7 +187,7 @@ This repo contains a list of languages that currently compile to or have their V
 > C is a general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
 > C was originally developed by Dennis Ritchie between 1969 and 1973 at Bell Labs,\[6] and used to re-implement the Unix operating system.
 
-* [Emscripten](https://github.com/kripken/emscripten) ⭐ 27,581 | 🐛 2,476 | 🌐 C++ | 📅 2026-08-29 - an LLVM-to-JavaScript/Webassembly compiler. It takes LLVM bitcode - which can be generated from C/C++, using llvm-gcc (DragonEgg) or clang, or any other language that can be converted into LLVM - and compiles that into JavaScript or wasm.
+* [Emscripten](https://github.com/kripken/emscripten) ⭐ 27,582 | 🐛 2,478 | 🌐 C++ | 📅 2026-08-29 - an LLVM-to-JavaScript/Webassembly compiler. It takes LLVM bitcode - which can be generated from C/C++, using llvm-gcc (DragonEgg) or clang, or any other language that can be converted into LLVM - and compiles that into JavaScript or wasm.
 * [Cheerp](https://github.com/leaningtech/cheerp-meta) ⭐ 1,189 | 🐛 5 | 🌐 JavaScript | 📅 2025-09-24 - an open-source, enterprise-grade C/C++ compiler for Web applications. Cheerp can compile virtually any C/C++ code to WebAssembly and/or JavaScript.
 
 ***
@@ -273,8 +273,8 @@ This repo contains a list of languages that currently compile to or have their V
 > * Have compile-time evaluation and generation of code, to avoid boilerplate code.
 > * Compile to efficient native code.
 
-* [Crystal](https://github.com/crystal-lang/crystal) ⭐ 20,388 | 🐛 2,038 | 🌐 Crystal | 📅 2026-08-28 - main repository
-* [POC PR](https://github.com/crystal-lang/crystal/pull/10870) ⭐ 20,388 | 🐛 2,038 | 🌐 Crystal | 📅 2026-08-28 - PR adding initial support for WebAssembly
+* [Crystal](https://github.com/crystal-lang/crystal) ⭐ 20,389 | 🐛 2,040 | 🌐 Crystal | 📅 2026-08-29 - main repository
+* [POC PR](https://github.com/crystal-lang/crystal/pull/10870) ⭐ 20,389 | 🐛 2,040 | 🌐 Crystal | 📅 2026-08-29 - PR adding initial support for WebAssembly
 
 ***
 
@@ -290,7 +290,7 @@ This repo contains a list of languages that currently compile to or have their V
 
 > D is a general-purpose programming language with static typing, systems-level access, and C-like syntax.
 
-* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,367 | 🐛 581 | 🌐 D | 📅 2026-08-28 - LLVM-based D compiler, which can generate WASM since version 1.11.0.
+* [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,367 | 🐛 581 | 🌐 D | 📅 2026-08-29 - LLVM-based D compiler, which can generate WASM since version 1.11.0.
 
 ***
 
@@ -344,7 +344,7 @@ This repo contains a list of languages that currently compile to or have their V
 
 > Faust (Functional Audio Stream) is a functional programming language specifically designed for real-time signal processing and synthesis. A distinctive characteristic of Faust is to be fully compiled.
 
-* [Faust](https://github.com/grame-cncm/faust) ⭐ 3,140 | 🐛 243 | 🌐 C++ | 📅 2026-08-28 - main repository.
+* [Faust](https://github.com/grame-cncm/faust) ⭐ 3,141 | 🐛 243 | 🌐 C++ | 📅 2026-08-29 - main repository.
 
 ***
 
@@ -369,8 +369,8 @@ This repo contains a list of languages that currently compile to or have their V
 
 > Go is a statically typed compiled language in the tradition of C, with memory safety, garbage collection, structural typing, and CSP-style concurrent programming features added.
 
-* [Go](https://github.com/golang/go) ⭐ 136,563 | 🐛 10,085 | 🌐 Go | 📅 2026-08-28 - main repository.
-* [TinyGo](https://github.com/aykevl/tinygo) ⭐ 17,676 | 🐛 565 | 🌐 Go | 📅 2026-08-28 - a subset of Go targeted to embedded devices and WebAssembly.
+* [Go](https://github.com/golang/go) ⭐ 136,566 | 🐛 10,093 | 🌐 Go | 📅 2026-08-29 - main repository.
+* [TinyGo](https://github.com/aykevl/tinygo) ⭐ 17,676 | 🐛 564 | 🌐 Go | 📅 2026-08-29 - a subset of Go targeted to embedded devices and WebAssembly.
 
 ***
 
@@ -408,7 +408,7 @@ This repo contains a list of languages that currently compile to or have their V
 
 > Janet makes a good system scripting language, or a language to embed in other programs. It's like a "modern Lisp", featuring great and easy C interop and a variety of data types like arrays, structs, tables, etc.
 
-* [Janet](https://github.com/janet-lang/janet) ⭐ 4,372 | 🐛 58 | 🌐 C | 📅 2026-08-27 - main repository. You can try it out [here](https://janet-lang.org/#Try-It).
+* [Janet](https://github.com/janet-lang/janet) ⭐ 4,372 | 🐛 58 | 🌐 C | 📅 2026-08-29 - main repository. You can try it out [here](https://janet-lang.org/#Try-It).
 
 ***
 
@@ -419,8 +419,8 @@ This repo contains a list of languages that currently compile to or have their V
 
 * [TeaVM](https://github.com/konsoletyper/teavm) ⭐ 3,100 | 🐛 188 | 🌐 Java | 📅 2026-08-26 - an ahead-of-time translating compiler (transpiler) of Java bytecode, that's capable of emitting JavaScript and WebAssembly.
 * [JWebAssembly](https://github.com/i-net-software/JWebAssembly) ⭐ 1,052 | 🐛 22 | 🌐 Java | 📅 2026-08-17 - A Java bytecode to WebAssembly compiler. It can generate the WebAssembly binary or text format. It is written in Java itself and can be integrated with other Java build tools.
-* [Bytecoder](https://github.com/mirkosertic/Bytecoder) ⭐ 948 | 🐛 40 | 🌐 Java | 📅 2026-08-17 - A Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly.
-* [CheerpJ](https://github.com/leaningtech/cheerpj-meta) ⭐ 682 | 🐛 14 | 📅 2026-06-12 - A Java compiler for the web that converts any Java client application into standard HTML5/WebAssembly/JavaScript.
+* [Bytecoder](https://github.com/mirkosertic/Bytecoder) ⭐ 949 | 🐛 40 | 🌐 Java | 📅 2026-08-17 - A Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly.
+* [CheerpJ](https://github.com/leaningtech/cheerpj-meta) ⭐ 683 | 🐛 14 | 📅 2026-06-12 - A Java compiler for the web that converts any Java client application into standard HTML5/WebAssembly/JavaScript.
 * [Rise JVM](https://github.com/AmazingRise/rise-jvm) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-03 - Rise JVM is a minimal Java VM based on WASM. You can try it out [here](https://risehere.net/rise-jvm).
 
 ***
@@ -431,16 +431,16 @@ This repo contains a list of languages that currently compile to or have their V
 
 * [hermes](https://github.com/facebook/hermes) ⭐ 11,273 | 🐛 238 | 🌐 JavaScript | 📅 2026-08-28 - Hermes is a JavaScript engine optimized for fast start-up of React Native apps. It features ahead-of-time static optimization and compact bytecode. [Emscripten](https://github.com/facebook/hermes/blob/main/doc/Emscripten.md) ⭐ 11,273 | 🐛 238 | 🌐 JavaScript | 📅 2026-08-28 and [WASI](https://github.com/guest271314/hermes/blob/shermes-wasm/doc/WASI.md) ⭐ 0 | 🐛 0 | 📅 2025-02-11 support.
 * [otto](https://github.com/robertkrimen/otto) ⭐ 8,449 | 🐛 50 | 🌐 Go | 📅 2025-06-13 - a JavaScript parser and interpreter written natively in Go.
-* [Boa](https://github.com/boa-dev/boa) ⭐ 7,508 | 🐛 253 | 🌐 Rust | 📅 2026-08-28 - an embeddable and experimental Javascript engine written in Rust. You can try it out [here](https://boajs.dev/boa/playground/).
-* [goja](https://github.com/dop251/goja) ⭐ 7,059 | 🐛 32 | 🌐 Go | 📅 2026-08-26 - an implementation of ECMAScript 5.1 in pure Go with emphasis on standard compliance and performance.
+* [Boa](https://github.com/boa-dev/boa) ⭐ 7,511 | 🐛 253 | 🌐 Rust | 📅 2026-08-29 - an embeddable and experimental Javascript engine written in Rust. You can try it out [here](https://boajs.dev/boa/playground/).
+* [goja](https://github.com/dop251/goja) ⭐ 7,061 | 🐛 32 | 🌐 Go | 📅 2026-08-26 - an implementation of ECMAScript 5.1 in pure Go with emphasis on standard compliance and performance.
 * [Duktape](https://github.com/svaarala/duktape) ⭐ 6,209 | 🐛 474 | 🌐 JavaScript | 📅 2024-03-22 - an embeddable Javascript engine, with a focus on portability and compact footprint that's capable of being run in the browser via WebAssembly.
-* [Porffor](https://github.com/CanadaHonk/porffor) ⭐ 5,087 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-29 - a from-scratch experimental AOT optimizing JS/TS -> Wasm/C engine/compiler/runtime. You can try it out [here](https://porffor.dev/).
-* [Jint](https://github.com/sebastienros/jint) ⭐ 4,707 | 🐛 30 | 🌐 C# | 📅 2026-08-27 - an embeddable Javascript interpreter for .NET which can run on any modern .NET platform as it supports .NET Standard 2.0 and .NET 4.6.2 targets (and later).
+* [Porffor](https://github.com/CanadaHonk/porffor) ⭐ 5,089 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-29 - a from-scratch experimental AOT optimizing JS/TS -> Wasm/C engine/compiler/runtime. You can try it out [here](https://porffor.dev/).
+* [Jint](https://github.com/sebastienros/jint) ⭐ 4,707 | 🐛 29 | 🌐 C# | 📅 2026-08-29 - an embeddable Javascript interpreter for .NET which can run on any modern .NET platform as it supports .NET Standard 2.0 and .NET 4.6.2 targets (and later).
 * [Javy](https://github.com/bytecodealliance/javy) ⭐ 2,737 | 🐛 22 | 🌐 Rust | 📅 2026-08-12 - a JavaScript to WebAssembly toolchain, capable of generating WASI-compatible modules from JS by embedding the QuickJS engine.
 * [quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) ⭐ 1,698 | 🐛 39 | 🌐 TypeScript | 📅 2026-07-23 - Safely execute untrusted Javascript in your JS/TS, and execute synchronous code that uses async functions.
 * [sebastianwessel-quickjs](https://github.com/sebastianwessel/quickjs) ⭐ 931 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-08 - a typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox. You can try it out [here](https://sebastianwessel.github.io/quickjs/playground.html).
 * [wasmedge-quickjs](https://github.com/second-state/wasmedge-quickjs) ⭐ 562 | 🐛 63 | 🌐 JavaScript | 📅 2024-10-15 - A high-performance, secure, extensible, and OCI-complaint JavaScript runtime for WasmEdge.  Features TCP/UDP support via WasmEdge Sockets.
-* [jz](https://github.com/dy/jz) ⭐ 159 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - A minimal, fast AOT compiler for a functional JavaScript subset to WebAssembly.
+* [jz](https://github.com/dy/jz) ⭐ 159 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-29 - A minimal, fast AOT compiler for a functional JavaScript subset to WebAssembly.
 * [SpiderMonkey](https://github.com/bytecodealliance/spidermonkey-wasm-rs) ⚠️ Archived - experimental Rust bindings and generic builtins for SpiderMonkey for building WASI-compatible modules from JavaScript.
 
 ***
@@ -459,7 +459,7 @@ This repo contains a list of languages that currently compile to or have their V
 
 > KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios.
 
-* [KCLVM](https://github.com/KusionStack/KCLVM) ⭐ 2,404 | 🐛 73 | 🌐 Rust | 📅 2026-08-29 - LLVM-based KCL compiler, which can generate WASM.
+* [KCLVM](https://github.com/KusionStack/KCLVM) ⭐ 2,404 | 🐛 76 | 🌐 Rust | 📅 2026-08-29 - LLVM-based KCL compiler, which can generate WASM.
 
 ***
 
@@ -508,7 +508,7 @@ This repo contains a list of languages that currently compile to or have their V
 > Lobster is a statically typed language with flow-sensitive type inference and specialization, compile time reference counting (lifetime analysis) that looks a bit like Python. It was originally intended specifically for games.
 > Lobster has its own Wasm backend that compiles directly to linkable (with LLD) .wasm files.
 
-* [Lobster github](https://github.com/aardappel/lobster) ⭐ 2,733 | 🐛 18 | 🌐 C++ | 📅 2026-08-26
+* [Lobster github](https://github.com/aardappel/lobster) ⭐ 2,733 | 🐛 18 | 🌐 C++ | 📅 2026-08-29
 * [Lobster home](http://strlen.com/lobster/).
 * [Lobster docs](http://aardappel.github.io/lobster/README_FIRST.html)
 * [Compile to Wasm](http://aardappel.github.io/lobster/implementation.html) - how to compile.
@@ -529,7 +529,7 @@ This repo contains a list of languages that currently compile to or have their V
 > Lua is a lightweight, multi-paradigm programming language designed primarily for embedded systems and clients.\[2] Lua is cross-platform, since the interpreter is written in ANSI C, and has a relatively simple C API.
 > Lua was originally designed in 1993 as a language for extending software applications to meet the increasing demand for customization at the time.
 
-* [GopherLua](https://github.com/yuin/gopher-lua) ⭐ 6,973 | 🐛 103 | 🌐 Go | 📅 2026-04-01 - a Lua5.1(+ goto statement in Lua5.2) VM and compiler written in Go. It provides Go APIs that allow you to easily embed a scripting language to your Go host programs.
+* [GopherLua](https://github.com/yuin/gopher-lua) ⭐ 6,974 | 🐛 103 | 🌐 Go | 📅 2026-04-01 - a Lua5.1(+ goto statement in Lua5.2) VM and compiler written in Go. It provides Go APIs that allow you to easily embed a scripting language to your Go host programs.
 * [DCLua](https://github.com/milochristiansen/lua) ⭐ 923 | 🐛 1 | 🌐 Go | 📅 2026-07-17 - a Lua 5.3 VM and compiler written in Go. It's intended to allow easy embedding into Go programs, with minimal fuss and bother.
 * [WasmLua](https://github.com/vvanders/wasm_lua) ⭐ 803 | 🐛 5 | 🌐 C | 📅 2023-11-29 - a Lua VM running in the browser.
 * [Wasmoon](https://github.com/ceifa/wasmoon) ⭐ 695 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-29 - a high level Lua VM with JS bindings.
@@ -553,7 +553,7 @@ This repo contains a list of languages that currently compile to or have their V
 
 > MoonBit is an end-to-end programming language toolchain for cloud and edge computing using WebAssembly. The language is like Rust with GC support. The fast compiler is optimized to produce very compact WASM binaries.
 
-* [Core library](https://github.com/moonbitlang/core) ⭐ 1,190 | 🐛 128 | 🌐 MoonBit | 📅 2026-08-28 - open-sourced standard library. Compiler source code is not available yet.
+* [Core library](https://github.com/moonbitlang/core) ⭐ 1,190 | 🐛 126 | 🌐 MoonBit | 📅 2026-08-29 - open-sourced standard library. Compiler source code is not available yet.
 * [MoonBit](https://www.moonbitlang.com) - main website. You can try the language out [here](https://try.moonbitlang.com/).
 
 ***
@@ -562,8 +562,8 @@ This repo contains a list of languages that currently compile to or have their V
 
 > Minimal, simple, efficient, statically typed, compiled, metaprogrammable, safe, and extensible systems programming language with a Lua flavor.
 
-* [Nelua](https://github.com/edubart/nelua-lang/) ⭐ 2,415 | 🐛 26 | 🌐 Lua | 📅 2025-06-24 - project repository
-* [Nelua on the Web](https://github.com/edubart/nelua-lang/discussions/11) ⭐ 2,415 | 🐛 26 | 🌐 Lua | 📅 2025-06-24 - Nelua-wasm discussion
+* [Nelua](https://github.com/edubart/nelua-lang/) ⭐ 2,416 | 🐛 26 | 🌐 Lua | 📅 2025-06-24 - project repository
+* [Nelua on the Web](https://github.com/edubart/nelua-lang/discussions/11) ⭐ 2,416 | 🐛 26 | 🌐 Lua | 📅 2025-06-24 - Nelua-wasm discussion
 
 ***
 
@@ -589,7 +589,7 @@ This repo contains a list of languages that currently compile to or have their V
 
 > A fringe language with some beautiful design patterns.
 
-* [nlvm](https://github.com/arnetheduck/nlvm) ⭐ 776 | 🐛 13 | 🌐 Nim | 📅 2026-08-25 - LLVM-based compiler for Nim with a WebAssembly target supported out of the box
+* [nlvm](https://github.com/arnetheduck/nlvm) ⭐ 776 | 🐛 13 | 🌐 Nim | 📅 2026-08-29 - LLVM-based compiler for Nim with a WebAssembly target supported out of the box
 * [nwasm](https://github.com/stisa/nwasm) ⭐ 51 | 🐛 1 | 📅 2020-09-01 - a webassembly backend for nim.
 * [Nim wasm helpers](https://github.com/Feneric/nim-wasm-helpers) ⭐ 27 | 🐛 2 | 📅 2019-01-19 - a helper to set up a VM configured to build WebAssembly code using Nim.
 
@@ -653,8 +653,8 @@ This repo contains a list of languages that currently compile to or have their V
 
 > Python is an open source interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales.
 
-* [RustPython](https://github.com/RustPython/RustPython) ⭐ 22,310 | 🐛 398 | 🌐 Rust | 📅 2026-08-28 - A Python 3 interpreter written in Rust. Check the demo [here](https://rustpython.github.io/demo/)
-* [MicroPython](https://github.com/micropython/micropython/tree/master/ports/webassembly) ⭐ 22,019 | 🐛 1,534 | 🌐 C | 📅 2026-08-28 - a lean and efficient Python implementation for microcontrollers and constrained systems.
+* [RustPython](https://github.com/RustPython/RustPython) ⭐ 22,312 | 🐛 398 | 🌐 Rust | 📅 2026-08-29 - A Python 3 interpreter written in Rust. Check the demo [here](https://rustpython.github.io/demo/)
+* [MicroPython](https://github.com/micropython/micropython/tree/master/ports/webassembly) ⭐ 22,020 | 🐛 1,534 | 🌐 C | 📅 2026-08-28 - a lean and efficient Python implementation for microcontrollers and constrained systems.
 * [Pyodide](https://github.com/iodide-project/pyodide) ⭐ 14,803 | 🐛 396 | 🌐 Python | 📅 2026-08-27 - a port of Python to WebAssembly that includes the core packages of the scientific Python stack (Numpy, Pandas, matplotlib).  Objects transparently convert and share between Python and Javascript.
 * [WebAssembly Language Runtimes](https://github.com/vmware-labs/webassembly-language-runtimes) ⭐ 369 | 🐛 28 | 🌐 Shell | 📅 2024-06-05 - up-to-date CPython prebuilt for WASI
 * [micropython-wasm](https://github.com/rafi16jan/micropython-wasm) ⭐ 54 | 🐛 5 | 🌐 JavaScript | 📅 2022-11-16 - MicroPython build which features wide JS interop, e.g. waiting for JS promises.
@@ -695,7 +695,7 @@ This repo contains a list of languages that currently compile to or have their V
 
 > Open Policy Agent (OPA) is an open source, general-purpose policy engine that unifies policy enforcement across the stack. Rego is a high-level declarative policy language purpose-built for expressing policies over complex hierarchical data structures.
 
-* [OPA-Wasm](https://github.com/open-policy-agent/opa/tree/main/wasm) ⭐ 12,174 | 🐛 336 | 🌐 Go | 📅 2026-08-28 - Compilation and evaluation of Rego policies using Wasm.
+* [OPA-Wasm](https://github.com/open-policy-agent/opa/tree/main/wasm) ⭐ 12,176 | 🐛 336 | 🌐 Go | 📅 2026-08-28 - Compilation and evaluation of Rego policies using Wasm.
 * [npm-opa-wasm](https://github.com/open-policy-agent/npm-opa-wasm) ⭐ 158 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-10 - NPM module providing an SDK for using Wasm compiled OPA policies.
 * [rust-opa-wasm](https://github.com/matrix-org/rust-opa-wasm) ⭐ 79 | 🐛 13 | 🌐 Rust | 📅 2026-08-24 - A crate to use OPA policies compiled to Wasm.
 * [dotnet-opa-wasm](https://github.com/christophwille/dotnet-opa-wasm) ⭐ 45 | 🐛 9 | 🌐 C# | 📅 2026-05-26 - Call OPA policies in Wasm from C# .NET Core.
@@ -718,8 +718,8 @@ This repo contains a list of languages that currently compile to or have their V
 
 > A fast, friendly, functional language. Compiles to machine code or WASM. Roc is a direct descendant of the Elm programming language.
 
-* [roc](https://github.com/roc-lang/roc) ⭐ 6,015 | 🐛 190 | 🌐 Zig | 📅 2026-08-29 - main repository. You can try it out [here](https://www.roc-lang.org/#try-roc).
-* [basic-cli](https://github.com/roc-lang/basic-cli) ⭐ 120 | 🐛 21 | 🌐 Rust | 📅 2026-08-25 - a Roc [platform](https://github.com/roc-lang/roc/wiki/Roc-concepts-explained#platform) ⭐ 6,015 | 🐛 190 | 🌐 Zig | 📅 2026-08-29 to work with files, commands, HTTP, TCP, command line arguments, etc.
+* [roc](https://github.com/roc-lang/roc) ⭐ 6,015 | 🐛 189 | 🌐 Zig | 📅 2026-08-29 - main repository. You can try it out [here](https://www.roc-lang.org/#try-roc).
+* [basic-cli](https://github.com/roc-lang/basic-cli) ⭐ 120 | 🐛 21 | 🌐 Rust | 📅 2026-08-25 - a Roc [platform](https://github.com/roc-lang/roc/wiki/Roc-concepts-explained#platform) ⭐ 6,015 | 🐛 189 | 🌐 Zig | 📅 2026-08-29 to work with files, commands, HTTP, TCP, command line arguments, etc.
 * [basic-webserver](https://github.com/roc-lang/basic-webserver) ⭐ 106 | 🐛 11 | 🌐 HTML | 📅 2026-08-28 - a basic Web Server for Roc.
 
 ***
@@ -823,7 +823,7 @@ This repo contains a list of languages that currently compile to or have their V
 
 > V is a statically typed compiled programming language designed for building maintainable software.
 
-* [V](https://github.com/vlang/v) ⭐ 37,800 | 🐛 108 | 🌐 V | 📅 2026-08-29 - main repository. You can try it out [here](https://play.vlang.io/)
+* [V](https://github.com/vlang/v) ⭐ 37,802 | 🐛 109 | 🌐 V | 📅 2026-08-29 - main repository. You can try it out [here](https://play.vlang.io/)
 
 ***
 
