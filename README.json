@@ -15,8 +15,8 @@
             "id": 17620347,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:22:30Z",
-            "open_issues": 4212,
+            "last_commit": "2026-10-02T17:19:31Z",
+            "open_issues": 4206,
             "owner": "dotnet",
             "repo": "aspnetcore",
             "stars": 38464,
@@ -182,7 +182,7 @@
             "open_issues": 203,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18030,
+            "stars": 18031,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -202,7 +202,7 @@
         {
           "node_type": "item",
           "title": "Astro - main repository.",
-          "description": null,
+          "description": "astrolang/astro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -467,7 +467,7 @@
             "open_issues": 6,
             "owner": "wa-lang",
             "repo": "wa",
-            "stars": 1770,
+            "stars": 1769,
             "topics": [
               "language",
               "programming-language",
@@ -592,11 +592,11 @@
             "id": 1357796,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T10:44:06Z",
-            "open_issues": 2502,
+            "last_commit": "2026-10-03T01:20:16Z",
+            "open_issues": 2500,
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27671,
+            "stars": 27673,
             "topics": [
               "emscripten",
               "hacktoberfest",
@@ -775,11 +775,11 @@
             "id": 6887813,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T10:04:04Z",
-            "open_issues": 2055,
+            "last_commit": "2026-10-02T22:22:50Z",
+            "open_issues": 2057,
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20438,
+            "stars": 20439,
             "topics": [
               "compiler",
               "crystal",
@@ -802,11 +802,11 @@
             "id": 6887813,
             "language": "Crystal",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T10:04:04Z",
-            "open_issues": 2055,
+            "last_commit": "2026-10-02T22:22:50Z",
+            "open_issues": 2057,
             "owner": "crystal-lang",
             "repo": "crystal",
-            "stars": 20438,
+            "stars": 20439,
             "topics": [
               "compiler",
               "crystal",
@@ -870,7 +870,7 @@
             "id": 2174666,
             "language": "D",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T04:53:18Z",
+            "last_commit": "2026-10-03T04:35:45Z",
             "open_issues": 585,
             "owner": "ldc-developers",
             "repo": "ldc",
@@ -903,11 +903,11 @@
             "id": 35726310,
             "language": "Dart",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T12:34:34Z",
+            "last_commit": "2026-10-03T04:59:25Z",
             "open_issues": 8421,
             "owner": "dart-lang",
             "repo": "sdk",
-            "stars": 11291,
+            "stars": 11292,
             "topics": [
               "dart",
               "language",
@@ -929,8 +929,8 @@
             "id": 137279731,
             "language": "TeX",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T12:48:23Z",
-            "open_issues": 1288,
+            "last_commit": "2026-10-03T01:03:19Z",
+            "open_issues": 1293,
             "owner": "dart-lang",
             "repo": "language",
             "stars": 2931,
@@ -1011,7 +1011,7 @@
         {
           "node_type": "item",
           "title": "Firefly - An alternative BEAM implementation (with AOT compiler) designed for WebAssembly. [Unmaintained]",
-          "description": null,
+          "description": "GetFirefly/firefly",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1041,7 +1041,7 @@
         {
           "node_type": "item",
           "title": "ElixirWasm - an elixir compiler for wasm. [Unmaintained]",
-          "description": null,
+          "description": "jamen/elixir-wasm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1077,11 +1077,11 @@
             "id": 72926839,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T12:34:50Z",
-            "open_issues": 247,
+            "last_commit": "2026-10-02T21:47:48Z",
+            "open_issues": 248,
             "owner": "grame-cncm",
             "repo": "faust",
-            "stars": 3175,
+            "stars": 3177,
             "topics": [
               "audio",
               "c",
@@ -1128,7 +1128,7 @@
             "open_issues": 8,
             "owner": "forest-lang",
             "repo": "forest-compiler",
-            "stars": 626,
+            "stars": 625,
             "topics": []
           },
           "first_seen": "2026-08-28T18:43:00.181Z"
@@ -1217,11 +1217,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T00:26:53Z",
-            "open_issues": 10281,
+            "last_commit": "2026-10-02T21:55:53Z",
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139120,
+            "stars": 139133,
             "topics": [
               "go",
               "golang",
@@ -1244,7 +1244,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T10:21:13Z",
-            "open_issues": 538,
+            "open_issues": 543,
             "owner": "tinygo-org",
             "repo": "tinygo",
             "stars": 17802,
@@ -1281,7 +1281,7 @@
         {
           "node_type": "item",
           "title": "Asterius - a Haskell to WebAssembly compiler. [Unmaintained]",
-          "description": null,
+          "description": "tweag/asterius",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1307,7 +1307,7 @@
         {
           "node_type": "item",
           "title": "HaskellWasm - a Haskell compiler infrastructure for generating WebAssembly. [Unmaintained]",
-          "description": null,
+          "description": "sdiehl/wasm",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1332,7 +1332,7 @@
         {
           "node_type": "item",
           "title": "DHC - a Haskell compiler that accepts only a tiny subset of the language and produces WebAssembly binaries. [Unmaintained]",
-          "description": null,
+          "description": "dfinity-side-projects/dhc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1406,7 +1406,7 @@
         {
           "node_type": "item",
           "title": "Idris-codegen-WASM - WASM codegen repository.",
-          "description": null,
+          "description": "SPY/idris-codegen-wasm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1448,10 +1448,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-01T11:34:20Z",
-            "open_issues": 65,
+            "open_issues": 63,
             "owner": "janet-lang",
             "repo": "janet",
-            "stars": 4435,
+            "stars": 4436,
             "topics": [
               "c",
               "functional-language",
@@ -1484,11 +1484,11 @@
             "id": 13045763,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T18:58:25Z",
+            "last_commit": "2026-10-02T16:34:46Z",
             "open_issues": 193,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3118,
+            "stars": 3117,
             "topics": [
               "aot",
               "java",
@@ -1515,7 +1515,7 @@
             "open_issues": 22,
             "owner": "i-net-software",
             "repo": "JWebAssembly",
-            "stars": 1056,
+            "stars": 1054,
             "topics": [
               "compiler",
               "java",
@@ -1633,11 +1633,11 @@
             "id": 154201259,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T19:46:21Z",
-            "open_issues": 270,
+            "last_commit": "2026-10-02T22:03:21Z",
+            "open_issues": 269,
             "owner": "facebook",
             "repo": "hermes",
-            "stars": 11330,
+            "stars": 11333,
             "topics": []
           },
           "first_seen": "2026-08-28T18:43:00.181Z"
@@ -1658,7 +1658,7 @@
             "open_issues": 55,
             "owner": "robertkrimen",
             "repo": "otto",
-            "stars": 8451,
+            "stars": 8450,
             "topics": []
           },
           "first_seen": "2026-08-28T18:43:00.181Z"
@@ -1676,7 +1676,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-26T08:06:43Z",
-            "open_issues": 220,
+            "open_issues": 223,
             "owner": "boa-dev",
             "repo": "boa",
             "stars": 7575,
@@ -1709,11 +1709,11 @@
             "id": 72888736,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T11:27:53Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-02T13:58:14Z",
+            "open_issues": 48,
             "owner": "dop251",
             "repo": "goja",
-            "stars": 7125,
+            "stars": 7124,
             "topics": [
               "golang",
               "javascript"
@@ -1758,11 +1758,11 @@
             "id": 658186257,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T04:21:43Z",
+            "last_commit": "2026-10-02T21:58:13Z",
             "open_issues": 31,
             "owner": "CanadaHonk",
             "repo": "porffor",
-            "stars": 5267,
+            "stars": 5270,
             "topics": []
           },
           "first_seen": "2026-08-28T18:43:00.181Z"
@@ -1800,8 +1800,8 @@
             "id": 360531511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T20:24:51Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-02T16:12:54Z",
+            "open_issues": 35,
             "owner": "bytecodealliance",
             "repo": "javy",
             "stars": 2753,
@@ -1852,7 +1852,7 @@
             "open_issues": 1,
             "owner": "sebastianwessel",
             "repo": "quickjs",
-            "stars": 937,
+            "stars": 938,
             "topics": [
               "example",
               "javascript",
@@ -1911,7 +1911,7 @@
             "id": 887923487,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T07:53:13Z",
+            "last_commit": "2026-10-03T03:37:37Z",
             "open_issues": 1,
             "owner": "dy",
             "repo": "jz",
@@ -1992,7 +1992,7 @@
         {
           "node_type": "item",
           "title": "Charlotte.jl - a Julia to WebAssembly/Javascript compiler",
-          "description": null,
+          "description": "MikeInnes/Charlotte.jl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2065,7 +2065,7 @@
         {
           "node_type": "item",
           "title": "Kotlin/Wasm examples",
-          "description": null,
+          "description": "Kotlin/kotlin-wasm-examples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2214,7 +2214,7 @@
         {
           "node_type": "item",
           "title": "Lobster github",
-          "description": null,
+          "description": "aardappel/lobster",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2223,7 +2223,7 @@
             "id": 10606484,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-10-01T20:34:55Z",
+            "last_commit": "2026-10-02T19:04:29Z",
             "open_issues": 15,
             "owner": "aardappel",
             "repo": "lobster",
@@ -2395,7 +2395,7 @@
             "open_issues": 24,
             "owner": "PlutoLang",
             "repo": "Pluto",
-            "stars": 699,
+            "stars": 696,
             "topics": [
               "dialect",
               "language",
@@ -2424,7 +2424,7 @@
             "open_issues": 15,
             "owner": "SwadicalRag",
             "repo": "wasm2lua",
-            "stars": 221,
+            "stars": 220,
             "topics": [
               "compiler",
               "lua",
@@ -2597,7 +2597,7 @@
             "open_issues": 28,
             "owner": "edubart",
             "repo": "nelua-lang",
-            "stars": 2433,
+            "stars": 2434,
             "topics": [
               "c",
               "compiler",
@@ -2630,7 +2630,7 @@
             "open_issues": 28,
             "owner": "edubart",
             "repo": "nelua-lang",
-            "stars": 2433,
+            "stars": 2434,
             "topics": [
               "c",
               "compiler",
@@ -2669,7 +2669,7 @@
             "open_issues": 16,
             "owner": "NerdLang",
             "repo": "nerd",
-            "stars": 3610,
+            "stars": 3609,
             "topics": [
               "arduino",
               "compilation",
@@ -2809,7 +2809,7 @@
         {
           "node_type": "item",
           "title": "OcamlRun - a build script for compiling OCaml bytecode interpreter to wasm using emscripten [Unmaintained]",
-          "description": null,
+          "description": "sebmarkbage/ocamlrun-wasm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2895,7 +2895,7 @@
             "open_issues": 28,
             "owner": "vmware-labs",
             "repo": "webassembly-language-runtimes",
-            "stars": 369,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T18:43:00.181Z"
@@ -3004,10 +3004,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-02T09:59:05Z",
-            "open_issues": 407,
+            "open_issues": 403,
             "owner": "RustPython",
             "repo": "RustPython",
-            "stars": 22376,
+            "stars": 22375,
             "topics": [
               "compiler",
               "hacktoberfest",
@@ -3035,10 +3035,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T07:05:46Z",
-            "open_issues": 1530,
+            "open_issues": 1532,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22105,
+            "stars": 22104,
             "topics": [
               "embedded",
               "microcontroller",
@@ -3064,7 +3064,7 @@
             "open_issues": 396,
             "owner": "pyodide",
             "repo": "pyodide",
-            "stars": 14871,
+            "stars": 14872,
             "topics": [
               "emscripten",
               "pyodide",
@@ -3091,7 +3091,7 @@
             "open_issues": 28,
             "owner": "vmware-labs",
             "repo": "webassembly-language-runtimes",
-            "stars": 369,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T18:43:00.181Z"
@@ -3310,11 +3310,11 @@
             "id": 48714685,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T07:48:10Z",
+            "last_commit": "2026-10-03T03:51:55Z",
             "open_issues": 305,
             "owner": "open-policy-agent",
             "repo": "opa",
-            "stars": 12304,
+            "stars": 12305,
             "topics": [
               "authorization",
               "cloud-native",
@@ -3471,11 +3471,11 @@
             "id": 166616185,
             "language": "Zig",
             "license": "UPL-1.0",
-            "last_commit": "2026-10-02T12:26:52Z",
-            "open_issues": 274,
+            "last_commit": "2026-10-03T04:58:02Z",
+            "open_issues": 223,
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 6089,
+            "stars": 6090,
             "topics": [
               "functional-language",
               "functional-programming",
@@ -3524,7 +3524,7 @@
             "open_issues": 12,
             "owner": "roc-lang",
             "repo": "basic-webserver",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "roc-lang"
             ]
@@ -3581,7 +3581,7 @@
             "id": 442624615,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-02T01:25:46Z",
+            "last_commit": "2026-10-03T01:21:57Z",
             "open_issues": 41,
             "owner": "ruby",
             "repo": "ruby.wasm",
@@ -3633,7 +3633,7 @@
             "open_issues": 28,
             "owner": "vmware-labs",
             "repo": "webassembly-language-runtimes",
-            "stars": 369,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T18:43:00.181Z"
@@ -3761,10 +3761,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T07:01:33Z",
-            "open_issues": 559,
+            "open_issues": 560,
             "owner": "wasm-bindgen",
             "repo": "wasm-bindgen",
-            "stars": 9173,
+            "stars": 9172,
             "topics": [
               "binding-generator",
               "javascript",
@@ -3946,7 +3946,7 @@
         {
           "node_type": "item",
           "title": "Speedy.js - main repository.",
-          "description": null,
+          "description": "MichaReiser/speedy.js",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4116,11 +4116,11 @@
             "id": 169677297,
             "language": "V",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:01:36Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-02T23:29:42Z",
+            "open_issues": 36,
             "owner": "vlang",
             "repo": "v",
-            "stars": 37932,
+            "stars": 37934,
             "topics": [
               "compiler",
               "language",
@@ -4187,7 +4187,7 @@
             "open_issues": 6,
             "owner": "wa-lang",
             "repo": "wa",
-            "stars": 1770,
+            "stars": 1769,
             "topics": [
               "language",
               "programming-language",
@@ -4206,7 +4206,7 @@
         {
           "node_type": "item",
           "title": "Wah - main repository.",
-          "description": null,
+          "description": "tmcw/wah",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4237,7 +4237,7 @@
         {
           "node_type": "item",
           "title": "Walt - main repository.",
-          "description": null,
+          "description": "ballercat/walt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4268,7 +4268,7 @@
         {
           "node_type": "item",
           "title": "Wam - main repository.",
-          "description": null,
+          "description": "kanaka/wam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4335,7 +4335,7 @@
             "open_issues": 18,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8035,
+            "stars": 8037,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -4411,7 +4411,7 @@
         {
           "node_type": "item",
           "title": "Wracket - main repository.",
-          "description": null,
+          "description": "sschauss/wracket",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4478,7 +4478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:35:49.809Z",
+    "last_updated": "2026-10-03T05:14:39.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of languages that compile directly to or have their VMs in WebAssembly",
